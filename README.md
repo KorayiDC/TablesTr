@@ -1,3 +1,3 @@
 # TablesTurn
 
-Shows all existing cryptocurrencys. 
+Shows all existing cryptocurrencys - realtime & up2date. 
